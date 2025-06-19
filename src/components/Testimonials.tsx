@@ -31,7 +31,7 @@ const Testimonials = () => {
       name: 'Emily Rodriguez',
       location: 'West Valley City, UT',
       rating: 5,
-      text: 'The custom carpentry work for our built-in shelving was exactly what we envisioned. The craftsmanship is top-notch and the team communicated every step of the process. We\'ll definitely use them again.',
+             text: 'The custom carpentry work for our built-in shelving was exactly what we envisioned. The craftsmanship is top-notch and the team communicated every step of the process. We&apos;ll definitely use them again.',
       project: 'Custom Built-in Shelving',
     },
     {
@@ -142,7 +142,7 @@ const Testimonials = () => {
 
               {/* Testimonial Text */}
               <blockquote className="text-gray-700 font-sans leading-relaxed mb-6 italic">
-                "{testimonial.text}"
+                &ldquo;{testimonial.text}&rdquo;
               </blockquote>
 
               {/* Client Info */}
@@ -188,7 +188,7 @@ const Testimonials = () => {
 
             {/* Testimonial Text */}
             <blockquote className="text-gray-700 font-sans leading-relaxed mb-6 italic">
-              "{testimonials[currentIndex].text}"
+              &ldquo;{testimonials[currentIndex].text}&rdquo;
             </blockquote>
 
             {/* Client Info */}

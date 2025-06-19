@@ -236,13 +236,13 @@ const Contact = () => {
                 Contact Information
               </h3>
               <p className="text-gray-600 font-sans leading-relaxed mb-8">
-                We're here to help bring your vision to life. Get in touch with us to discuss your project requirements and receive a personalized quote.
+                We&apos;re here to help bring your vision to life. Get in touch with us to discuss your project requirements and receive a personalized quote.
               </p>
             </div>
 
             {/* Contact Details */}
-            <div className="space-y-6">
-              {contactInfo.map((info, index) => (
+                         <div className="space-y-6">
+               {contactInfo.map((info) => (
                 <motion.div
                   key={info.title}
                   variants={itemVariants}
