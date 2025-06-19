@@ -1,36 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Sashback Construction
 
-## Getting Started
+A modern, responsive website for Sashback Construction - Expert contracting services in flooring, carpentry, and more.
 
-First, run the development server:
+## 🏗️ About
+
+Sashback Construction is a professional contracting company serving Northern Utah with quality craftsmanship built to last. We specialize in:
+
+- **Luxury Vinyl Planks** - Durable, waterproof, and authentic in appearance
+- **Hardwood Flooring** - Timeless finishes with long-lasting quality  
+- **Tile Installation** - Stylish and durable for floors, walls, and backsplashes
+- **Custom Carpentry** - Custom woodwork, framing, and interior finishings
+
+## 🚀 Tech Stack
+
+- **Next.js 15** - React framework with app router
+- **Tailwind CSS v4** - Utility-first styling
+- **Framer Motion** - Smooth animations and transitions
+- **TypeScript** - Type safety and development experience
+- **Inter & Oswald** - Custom Google Fonts
+
+## 🎨 Design Features
+
+- **Modern Design** - Clean, professional aesthetic
+- **Responsive Layout** - Mobile-first design approach
+- **Smooth Animations** - Framer Motion powered interactions
+- **Performance Optimized** - Fast loading and SEO friendly
+- **Accessibility** - WCAG compliant design
+
+## 🛠️ Getting Started
+
+First, install dependencies:
+
+```bash
+npm install
+```
+
+Then, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📱 Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Fixed Navigation** - Lime green header with smooth scroll navigation
+- **Hero Section** - Full-screen impact with animated call-to-action
+- **Services Grid** - Interactive service cards with hover effects
+- **Project Gallery** - Lightbox gallery with sample project images
+- **Client Testimonials** - Responsive carousel with 5-star reviews
+- **Contact Form** - Professional contact form with validation
+- **Footer** - Complete company information and links
 
-## Learn More
+## 🌟 Live Demo
 
-To learn more about Next.js, take a look at the following resources:
+Visit the live website: [Sashback Construction](https://your-domain.com)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📞 Contact
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Sashback Construction**
+- Phone: (801) 555-0123
+- Email: info@sashbackconstruction.com
+- Service Area: Northern Utah
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+*Built with ❤️ by Sashback Construction*
