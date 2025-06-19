@@ -104,7 +104,7 @@ const Testimonials = () => {
           </h2>
           <div className="w-24 h-1 bg-lime mx-auto mb-6"></div>
           <p className="text-lg sm:text-xl text-gray-600 max-w-2xl mx-auto font-sans">
-            Don't just take our word for it. Here's what our satisfied clients have to say about our work.
+            Don&apos;t just take our word for it. Here&apos;s what our satisfied clients have to say about our work.
           </p>
         </motion.div>
 
